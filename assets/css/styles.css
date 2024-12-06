@@ -10,7 +10,7 @@
   }
 
   .header-row {
-    background-color: orange;
+    background-color: rgb(233, 154, 51);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -55,7 +55,7 @@
   }
 
   button {
-    background-color: pink;
+    background-color: rgb(44, 14, 154);
     padding: 10px;
     color: white;
     border: none;
